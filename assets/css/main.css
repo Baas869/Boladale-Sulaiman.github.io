@@ -2604,7 +2604,7 @@ input, select, textarea {
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		/* background-color: #1f1815; */
-		background: url(/images/fulls/headerImage.png) center center;
+		background: url(image/headerImage.png) center center;
 		background-size: cover;
 		position: fixed;
 		z-index: 3;
@@ -3143,7 +3143,7 @@ input, select, textarea {
 				width: 100%;
 			}
 			#footer{
-				background: url(/images/tech-img.jpg) center center;
+				background: url(image/headerImage.png) center center;
 				background-size: cover;
 				position: fixed;
 				z-index: 3;
